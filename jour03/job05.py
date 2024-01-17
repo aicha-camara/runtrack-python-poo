@@ -52,6 +52,5 @@ class Jeu:
                 print(f"{joueur.nom} a été vaincu ! Vous avez perdu.")
                 break
 
-# Création de l'objet Jeu et lancement du jeu
 jeu = Jeu()
 jeu.lancerJeu()
